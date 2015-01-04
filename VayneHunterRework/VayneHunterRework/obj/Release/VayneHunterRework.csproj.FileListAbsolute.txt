@@ -1,2 +1,0 @@
-C:\Users\Windows 8.1X64 M1\Desktop\L-Assemblies-master\VayneHunterRework\VayneHunterRework\obj\Release\VayneHunterRework.csprojResolveAssemblyReference.cache
-C:\Users\iang\Desktop\LeagueSharp\Ass\VayneHunterRework\VayneHunterRework\obj\Release\VayneHunterRework.csprojResolveAssemblyReference.cache
